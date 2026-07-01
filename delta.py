@@ -1,2 +1,0 @@
-import libdelta
-libdelta.main()
